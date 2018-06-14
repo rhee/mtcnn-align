@@ -1,6 +1,6 @@
 # mtcnn-align
 
-ongoing trial to implement mtcnn in tensorflow.js.
+ongoing work to implement mtcnn in tensorflow.js.
 base code copied from https://github.com/davidsandberg/facenet.
 
 # current status
