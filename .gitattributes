@@ -1,0 +1,6 @@
+group.?-shard.?of.? filter=lfs diff=lfs merge=lfs -text
+*.pb filter=lfs diff=lfs merge=lfs -text
+events.out.* filter=lfs diff=lfs merge=lfs -text
+variables.data-* filter=lfs diff=lfs merge=lfs -text
+*.data-.?.?.?.?.?-of-.?.?.?.?.? filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text

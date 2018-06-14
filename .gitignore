@@ -1,0 +1,11 @@
+*.lock
+*.pyc
+*~
+.DS_*
+.DS_Store
+.ipynb_checkpoints
+.vscode
+__pycache__
+.cache
+dist
+node_modules
